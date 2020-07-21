@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "jaygeegroupapp",
+    "icon": "./assets/images/icon.png",
+    "slug": "anbyaRNboilerplate",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#019cde"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jaygeegroupapp.jaygeegroupapp"
+    },
+    "android": {
+      "package": "com.jaygeegroupapp.jaygeegroupapp",
+      "versionCode": 1
+    },
+    "description": ""
+  }
+}
